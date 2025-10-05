@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\bin\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\bin\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\bin\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\bin\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\bin\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\refint\03-1-genericStack-Indexer-FileWriting.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\03-1-genericStack-Indexer-FileWriting.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-1-genericStack-Indexer-FileWriting\obj\Debug\net8.0\ref\03-1-genericStack-Indexer-FileWriting.dll

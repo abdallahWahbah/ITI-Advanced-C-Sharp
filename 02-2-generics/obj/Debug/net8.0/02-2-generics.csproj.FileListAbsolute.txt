@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\bin\Debug\net8.0\02-2-generics.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\bin\Debug\net8.0\02-2-generics.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\bin\Debug\net8.0\02-2-generics.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\bin\Debug\net8.0\02-2-generics.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\bin\Debug\net8.0\02-2-generics.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\refint\02-2-generics.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\02-2-generics.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\02-2-generics\obj\Debug\net8.0\ref\02-2-generics.dll

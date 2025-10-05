@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01-1-topLevelStatement-as-is-property/1.0.0": {
+        "dependencies": {
+          "01-2-Utility": "1.0.0"
+        },
+        "runtime": {
+          "01-1-topLevelStatement-as-is-property.dll": {}
+        }
+      },
+      "01-2-Utility/1.0.0": {
+        "runtime": {
+          "01-2-Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-1-topLevelStatement-as-is-property/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01-2-Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\bin\Debug\net8.0\05-EventArgs.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\bin\Debug\net8.0\05-EventArgs.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\bin\Debug\net8.0\05-EventArgs.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\bin\Debug\net8.0\05-EventArgs.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\bin\Debug\net8.0\05-EventArgs.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\refint\05-EventArgs.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\05-EventArgs.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\05-EventArgs\obj\Debug\net8.0\ref\05-EventArgs.dll

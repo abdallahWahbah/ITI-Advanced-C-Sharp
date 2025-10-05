@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="00-Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="03-FormCalculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="04-FormDrawCircle(MenuStrip).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="05-FormDrawMouseMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="02-FormGetFullName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="01-FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="06-MoveTheBall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="07-MyListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

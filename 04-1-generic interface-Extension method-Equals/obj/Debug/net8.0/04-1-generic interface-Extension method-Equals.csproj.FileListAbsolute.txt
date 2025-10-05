@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\bin\Debug\net8.0\04-1-generic interface-Extension method-Equals.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\bin\Debug\net8.0\04-1-generic interface-Extension method-Equals.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\bin\Debug\net8.0\04-1-generic interface-Extension method-Equals.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\bin\Debug\net8.0\04-1-generic interface-Extension method-Equals.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\bin\Debug\net8.0\04-1-generic interface-Extension method-Equals.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\refint\04-1-generic interface-Extension method-Equals.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\04-1-generic interface-Extension method-Equals.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\04-1-generic interface-Extension method-Equals\obj\Debug\net8.0\ref\04-1-generic interface-Extension method-Equals.dll

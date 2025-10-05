@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\bin\Debug\net8.0\03-2-Collections.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\bin\Debug\net8.0\03-2-Collections.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\bin\Debug\net8.0\03-2-Collections.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\bin\Debug\net8.0\03-2-Collections.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\bin\Debug\net8.0\03-2-Collections.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\refint\03-2-Collections.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\03-2-Collections.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\03-2-Collections\obj\Debug\net8.0\ref\03-2-Collections.dll

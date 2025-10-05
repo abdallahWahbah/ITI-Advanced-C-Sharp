@@ -1,0 +1,11 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\bin\Debug\net8.0\01-2-Utility.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\bin\Debug\net8.0\01-2-Utility.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\bin\Debug\net8.0\01-2-Utility.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\refint\01-2-Utility.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\01-2-Utility.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI Advanced\01-2-Utility\obj\Debug\net8.0\ref\01-2-Utility.dll

@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\bin\Debug\net8.0\06-2-Lab.exe
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\bin\Debug\net8.0\06-2-Lab.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\bin\Debug\net8.0\06-2-Lab.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\bin\Debug\net8.0\06-2-Lab.dll
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\bin\Debug\net8.0\06-2-Lab.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.dll
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\refint\06-2-Lab.dll
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\06-2-Lab.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\2-ITI Advanced\06-2-Lab\obj\Debug\net8.0\ref\06-2-Lab.dll
