@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04-1-generic interface-Extension method-Equals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5325c20570160a007f1ee77e19bd5008aab8a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("04-1-generic interface-Extension method-Equals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04-1-generic interface-Extension method-Equals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
