@@ -52,7 +52,7 @@
                 byte a2 = (byte)a1; // >>>>> better using Convert.ToByte(a1) cause it throws automatically
 
             }
-            // any arithmatic operation for types less than int like "byte", "short >>> the result is int 
+            // any arithmatic operation for types less than int like "byte", "short" >>> the result is int 
             byte a3 = 3, a4 = 4, a5;
             //a5 = a3 + a4; // compile error
             a5 = (byte)(a3 + a4);

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\04-1-generic interface-Extension method-Equals\\04-1-generic interface-Extension method-Equals.csproj",
+      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\04-1-generic interface-Extension method-Equals\\04-1-generic interface-Extension method-Equals.csproj",
       "projectName": "04-1-generic interface-Extension method-Equals",
-      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\04-1-generic interface-Extension method-Equals\\04-1-generic interface-Extension method-Equals.csproj",
+      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\04-1-generic interface-Extension method-Equals\\04-1-generic interface-Extension method-Equals.csproj",
       "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\04-1-generic interface-Extension method-Equals\\obj\\",
+      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\04-1-generic interface-Extension method-Equals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

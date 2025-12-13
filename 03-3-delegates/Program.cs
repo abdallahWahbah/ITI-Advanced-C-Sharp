@@ -143,7 +143,7 @@
             static List<int> MyFindAll(List<int> l3, Delegate_return_boolean_input_int del9){ // you can use Func<int, bool> instead of Delegate_return_....
                 List<int> res = new List<int>();
                 foreach(var item in l3){
-                    if(del9.Invoke(item))res.Push(item)
+                    if (del9.Invoke(item)) res.Add(item);
                 }
                 return res;
             }

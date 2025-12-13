@@ -22,13 +22,13 @@ namespace _02_2_generics
         public bool IsEmpty() => tos == -1;
         public void Push(T num)
         {
-            if (tos == Size - 1) throw new NotImplementedException();
+            if (IsFull()) throw new NotImplementedException();
             tos++;
             arr[tos] = num;
         }
         public T Pop()
         {
-            if (tos != -1)
+            if (!IsEmpty())
             {
                 T d = arr[tos];
                 tos--;

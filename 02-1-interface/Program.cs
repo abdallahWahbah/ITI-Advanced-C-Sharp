@@ -3,6 +3,60 @@ using System.Reflection;
 
 namespace _02_1_interface
 {
+    interface ISeries
+    {
+        int Current { get; } // any class implementing this interface must implement "Current" property with get only
+                             //int x; // you can't instantiate instance member
+        int GetNextNumber();
+        public static int x; // you can instantiate static member
+
+        // most used are functions like "GetNextNumber()" and Property like "Current"
+    }
+    class SeriesEngine
+    {
+        public void PrintNextSeriesNumber(ISeries s) // (ISeries s) satisfies O in "SOLID" >> open for extension, closed for modification
+        {
+            ++ISeries.x; // accessable 
+            Console.WriteLine(s.Current);
+            Console.WriteLine(s.GetNextNumber());
+        }
+    }
+    class OddSeries : ISeries
+    {
+        int counter = 1;
+        public int Current { get => counter; }
+        public int GetNextNumber()
+        {
+            int temp = counter;
+            counter += 2;
+            return temp;
+        }
+    }
+    class EvenSeries : ISeries
+    {
+        int counter = 2;
+        public int Current { get => counter; }
+        public int GetNextNumber()
+        {
+            int temp = counter;
+            counter += 2;
+            return temp;
+        }
+    }
+    class Fibonicci : ISeries
+    {
+        int current = 1;
+        int prevCurrent = 0;
+        public int Current { get => current; }
+
+        public int GetNextNumber()
+        {
+            int temp = current;
+            current = current + prevCurrent;
+            prevCurrent = temp;
+            return temp;
+        }
+    }
     internal class Program
     {
         static void Main(string[] args)
@@ -66,7 +120,7 @@ namespace _02_1_interface
 
 
 
-            #region 
+            #region multiple implementations, default implementation, explicit implementation
 
             Console.WriteLine("------------------- multiple implementations, default implementation, explicit implementation -------------------");
 
@@ -78,59 +132,6 @@ namespace _02_1_interface
             Console.WriteLine(((ID)m1).Divide(10, 2)); // 525120631
             #endregion
         }
-        interface ISeries
-        {
-            int Current { get; } // any class implementing this interface must implement "Current" property with get only
-            //int x; // you can't instantiate instance member
-            int GetNextNumber();
-            public static int x; // you can instantiate static member
-
-            // most used are functions like "GetNextNumber()" and Property like "Current"
-        }
-        class SeriesEngine
-        {
-            public void PrintNextSeriesNumber(ISeries s) // (ISeries s) satisfies O in "SOLID" >> open for extension, closed for modification
-            {
-                ++ISeries.x; // accessable 
-                Console.WriteLine(s.Current);
-                Console.WriteLine(s.GetNextNumber());
-            }
-        }
-        class OddSeries : ISeries
-        {
-            int counter = 1;
-            public int Current { get => counter; }
-            public int GetNextNumber()
-            {
-                int temp = counter;
-                counter += 2;
-                return temp;
-            }
-        }
-        class EvenSeries : ISeries
-        {
-            int counter = 2;
-            public int Current { get => counter; }
-            public int GetNextNumber()
-            {
-                int temp = counter;
-                counter += 2;
-                return temp;
-            }
-        }
-        class Fibonicci: ISeries
-        {
-            int current = 1;
-            int prevCurrent = 0;
-            public int Current { get => current; }
-
-            public int GetNextNumber()
-            {
-                int temp = current;
-                current = current + prevCurrent;
-                prevCurrent = temp;
-                return temp;
-            }
-        }
+        
     }
 }

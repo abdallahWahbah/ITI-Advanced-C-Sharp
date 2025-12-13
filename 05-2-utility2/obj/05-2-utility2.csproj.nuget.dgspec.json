@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-2-utility2\\05-2-utility2.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-2-utility2\\05-2-utility2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-2-utility2\\05-2-utility2.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-2-utility2\\05-2-utility2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-2-utility2\\05-2-utility2.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-2-utility2\\05-2-utility2.csproj",
         "projectName": "05-2-utility2",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-2-utility2\\05-2-utility2.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-2-utility2\\05-2-utility2.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-2-utility2\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-2-utility2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

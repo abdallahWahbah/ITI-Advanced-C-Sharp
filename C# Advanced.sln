@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-1-interface", "02-1-interface\02-1-interface.csproj", "{B7467F93-6037-4FB1-889A-8114AF93D1FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-1-interface-IComparable-ICloneable", "02-1-interface\02-1-interface-IComparable-ICloneable.csproj", "{B7467F93-6037-4FB1-889A-8114AF93D1FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-1-topLevelStatement-as-is-property", "01-1-topLevelStatement-as-is-property\01-1-topLevelStatement-as-is-property.csproj", "{14FD2313-985F-41C7-AA3C-C141B9429ABA}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-2-generics", "02-2-gener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-1-genericStack-Indexer-FileWriting", "03-1-genericStack-Indexer-FileWriting\03-1-genericStack-Indexer-FileWriting.csproj", "{7DB98595-AEE7-4288-8DF9-EC06E567906E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-2-Collections", "03-2-Collections\03-2-Collections.csproj", "{CA68F0A2-C2AA-477F-AD99-042761E1898D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-2-Collections-IEquatable-GetHashCode", "03-2-Collections\03-2-Collections-IEquatable-GetHashCode.csproj", "{CA68F0A2-C2AA-477F-AD99-042761E1898D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-3-delegates", "03-3-delegates\03-3-delegates.csproj", "{6344DDFD-5EF6-DF5D-6C99-70C3CD3ACADF}"
 EndProject
@@ -31,11 +31,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-2-WinFormsApp", "05-2-Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-1-try-catch-checked", "06-1-try-catch-checked\06-1-try-catch-checked.csproj", "{3CA24C5C-65B0-45B4-8337-54EAD650EBA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-2-Lab", "06-2-Lab\06-2-Lab.csproj", "{9FBF8292-A2F0-486A-A694-9A092ABFDD14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-2-Lab-IDisposable", "06-2-Lab\06-2-Lab-IDisposable.csproj", "{9FBF8292-A2F0-486A-A694-9A092ABFDD14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Exam-Mini Project", "07-Mini Project\07-Exam-Mini Project.csproj", "{A4F4D8AC-1EDF-43BC-AFD3-E5938219667D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Threading", "08-Threading\08-Threading.csproj", "{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z-test", "z-test\z-test.csproj", "{450DCFDE-5220-4FEC-970D-7B58D12B8955}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450DCFDE-5220-4FEC-970D-7B58D12B8955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DCFDE-5220-4FEC-970D-7B58D12B8955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DCFDE-5220-4FEC-970D-7B58D12B8955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DCFDE-5220-4FEC-970D-7B58D12B8955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

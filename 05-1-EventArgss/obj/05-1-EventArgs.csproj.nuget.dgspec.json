@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj",
         "projectName": "05-1-EventArgs",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-1-EventArgss\\05-1-EventArgs.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\05-1-EventArgss\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\05-1-EventArgss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

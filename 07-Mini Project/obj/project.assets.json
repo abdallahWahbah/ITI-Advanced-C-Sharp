@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\07-Mini Project\\07-Exam-Mini Project.csproj",
+      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\07-Mini Project\\07-Exam-Mini Project.csproj",
       "projectName": "07-Exam-Mini Project",
-      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\07-Mini Project\\07-Exam-Mini Project.csproj",
+      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\07-Mini Project\\07-Exam-Mini Project.csproj",
       "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\07-Mini Project\\obj\\",
+      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\07-Mini Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

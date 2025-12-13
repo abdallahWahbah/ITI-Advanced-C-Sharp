@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\02-2-generics\\02-2-generics.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\02-2-generics\\02-2-generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\02-2-generics\\02-2-generics.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\02-2-generics\\02-2-generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\02-2-generics\\02-2-generics.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\02-2-generics\\02-2-generics.csproj",
         "projectName": "02-2-generics",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\02-2-generics\\02-2-generics.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\02-2-generics\\02-2-generics.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\02-2-generics\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\02-2-generics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

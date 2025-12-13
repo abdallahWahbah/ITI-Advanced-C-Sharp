@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9av4uxZJqNA=",
+  "dgSpecHash": "61kblRI8GQA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\03-2-Collections.csproj",
+  "projectFilePath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\03-2-Collections-IEquatable-GetHashCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

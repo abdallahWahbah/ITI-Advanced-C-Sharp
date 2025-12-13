@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj",
         "projectName": "03-1-genericStack-Indexer-FileWriting",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-1-genericStack-Indexer-FileWriting\\03-1-genericStack-Indexer-FileWriting.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-1-genericStack-Indexer-FileWriting\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-1-genericStack-Indexer-FileWriting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

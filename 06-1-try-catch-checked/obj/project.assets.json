@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\06-1-try-catch-checked\\06-1-try-catch-checked.csproj",
+      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\06-1-try-catch-checked\\06-1-try-catch-checked.csproj",
       "projectName": "06-1-try-catch-checked",
-      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\06-1-try-catch-checked\\06-1-try-catch-checked.csproj",
+      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\06-1-try-catch-checked\\06-1-try-catch-checked.csproj",
       "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\06-1-try-catch-checked\\obj\\",
+      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\06-1-try-catch-checked\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

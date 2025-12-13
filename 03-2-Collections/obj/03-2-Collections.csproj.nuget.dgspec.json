@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\03-2-Collections.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\03-2-Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\03-2-Collections.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\03-2-Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\03-2-Collections.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\03-2-Collections.csproj",
         "projectName": "03-2-Collections",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\03-2-Collections.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\03-2-Collections.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-ITI Advanced\\03-2-Collections\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
