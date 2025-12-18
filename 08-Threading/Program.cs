@@ -58,7 +58,7 @@ namespace _08_Threading
 
             #region Task, Thread Pool: pre-defined Background Threads
 
-            // // const of making threads is high, slow and consumes more memory
+            // // cost of making threads is high, slow and consumes more memory
             // // Thread Pool is a collection of threads ::: when making new thread, take it from the thread pool >>> don't wait for the crl to make new Thread
             // // and if number of threads exceeds the thread pool, clr with take some places from memory to make threads
             // // all threads made by thread pool are background threads (finished if parent is finished execution)
