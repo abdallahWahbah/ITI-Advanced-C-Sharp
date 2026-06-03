@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}|08-Threading\\08-Threading.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\2-c# advanced\\08-threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A91D0A-7B0F-4102-8D59-B4ECB50EED0F}|08-Threading\\08-Threading.csproj|solutionrelative:08-threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA68F0A2-C2AA-477F-AD99-042761E1898D}|03-2-Collections\\03-2-Collections-IEquatable-GetHashCode.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\2-c# advanced\\03-2-collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA68F0A2-C2AA-477F-AD99-042761E1898D}|03-2-Collections\\03-2-Collections-IEquatable-GetHashCode.csproj|solutionrelative:03-2-collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\08-Threading\\Program.cs",
-              "RelativeDocumentMoniker": "08-Threading\\Program.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\08-Threading\\Program.cs",
-              "RelativeToolTip": "08-Threading\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\Program.cs",
+              "RelativeDocumentMoniker": "03-2-Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\2-C# Advanced\\03-2-Collections\\Program.cs",
+              "RelativeToolTip": "03-2-Collections\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:14:56.862Z",
+              "WhenOpened": "2026-04-22T13:23:18.521Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
